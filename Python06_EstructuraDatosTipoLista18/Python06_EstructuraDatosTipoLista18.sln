@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python06_EstructuraDatosTipoLista18", "Python06_EstructuraDatosTipoLista18\Python06_EstructuraDatosTipoLista18.pyproj", "{077DF883-4A7D-44CA-8E71-7FA14688D8C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{077DF883-4A7D-44CA-8E71-7FA14688D8C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{077DF883-4A7D-44CA-8E71-7FA14688D8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F878EC14-E902-462F-9211-D08FF6E60D25}
+	EndGlobalSection
+EndGlobal

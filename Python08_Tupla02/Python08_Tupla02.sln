@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python08_Tupla02", "Python08_Tupla02\Python08_Tupla02.pyproj", "{CFB6683D-E569-422D-86C6-57FCDBF8B7CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFB6683D-E569-422D-86C6-57FCDBF8B7CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB6683D-E569-422D-86C6-57FCDBF8B7CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BDA0618-183B-4C5C-BAB0-FB837B037324}
+	EndGlobalSection
+EndGlobal
